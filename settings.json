@@ -1,0 +1,19 @@
+{
+    "keys": {
+      "up": "W",
+      "left": "A",
+      "down": "S",
+      "right": "D"
+    },
+    "scroll": {
+      "downscroll": true,
+      "upscroll": false,
+      "middlescroll": false,
+      "speed": 1
+    },
+    "screen": {
+      "width": 400,
+      "height": 650
+    }
+  }
+  
